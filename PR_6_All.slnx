@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PR_6.1_it/PR_6.1_it/PR_6.1_it.vcxproj" Id="076E34EF-AC0A-4C80-B5BE-9DE7F3EE0841" />
+  <Project Path="PR_6.1_it/UnitTest_06_1_it/UnitTest_06_1_it.vcxproj" Id="1F9A8A91-2FCA-4F7E-A86F-6FA6499E6A91" />
+  <Project Path="PR_6.1_rec/PR_6.1_rec/PR_6.1_rec.vcxproj" Id="076E34EF-AC0A-4C80-B5BE-9DE7F3EE0842" />
+  <Project Path="PR_6.1_rec/UnitTest_06_1_rec/UnitTest_06_1_rec.vcxproj" Id="1F9A8A91-2FCA-4F7E-A86F-6FA6499E6A92" />
+  <Project Path="PR_6.2_it/PR_6.2_it/PR_6.2_it.vcxproj" Id="78BBDE89-A2A4-4369-BA00-A548325EF201" />
+  <Project Path="PR_6.2_it/UnitTest_06_2_it/UnitTest_06_2_it.vcxproj" Id="772B9A7C-EC54-47B7-BA17-7489CE7D7161" />
+  <Project Path="PR_6.2_rec/PR_6.2_rec/PR_6.2_rec.vcxproj" Id="78BBDE89-A2A4-4369-BA00-A548325EF202" />
+  <Project Path="PR_6.2_rec/UnitTest_06_2_rec/UnitTest_06_2_rec.vcxproj" Id="772B9A7C-EC54-47B7-BA17-7489CE7D7162" />
+  <Project Path="PR_6.3_it/PR_6.3_it/PR_6.3_it.vcxproj" Id="74C5D57B-7B5C-4861-BF92-7F99EE700A41" />
+  <Project Path="PR_6.3_it/UnitTest_06_3_it/UnitTest_06_3_it.vcxproj" Id="AD5B838C-C466-4C48-8DF0-7D12F12FF951" />
+  <Project Path="PR_6.3_rec/PR_6.3_rec/PR_6.3_rec.vcxproj" Id="74C5D57B-7B5C-4861-BF92-7F99EE700A42" />
+  <Project Path="PR_6.3_rec/UnitTest_06_3_rec/UnitTest_06_3_rec.vcxproj" Id="AD5B838C-C466-4C48-8DF0-7D12F12FF952" />
+  <Project Path="PR_6.4_it/PR_6.4_it/PR_6.4_it.vcxproj" Id="D5DFA708-EBEF-4AD7-B8DB-452F1E628171" />
+  <Project Path="PR_6.4_it/UnitTest_06_4_it/UnitTest_06_4_it.vcxproj" Id="8D26732F-4592-494B-972D-1FC0506EB321" />
+  <Project Path="PR_6.4_rec/PR_6.4_rec/PR_6.4_rec.vcxproj" Id="D5DFA708-EBEF-4AD7-B8DB-452F1E628172" />
+  <Project Path="PR_6.4_rec/UnitTest_06_4_rec/UnitTest_06_4_rec.vcxproj" Id="8D26732F-4592-494B-972D-1FC0506EB322" />
+</Solution>
